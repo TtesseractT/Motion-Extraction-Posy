@@ -21,10 +21,10 @@ This Python script applies a motion trail effect to a given video file using FFm
 Below are examples showing the input and output of the script:
 
 ### Input
-![Example Input](Example_Input.png)
+![Example Input](Example_Input.PNG)
 
 ### Output
-![Example Output](Example_Output.png)
+![Example Output](Example_Output.PNG)
 
 ## Installation
 

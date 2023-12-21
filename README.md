@@ -13,8 +13,18 @@ This Python script applies a motion trail effect to a given video file using FFm
 
 ## Requirements
 
-- Python 3
+- Python 3.x
 - FFmpeg installed and accessible in the system's PATH.
+
+## Examples
+
+Below are examples showing the input and output of the script:
+
+### Input
+![Example Input](Example_Input.png)
+
+### Output
+![Example Output](Example_Output.png)
 
 ## Installation
 
